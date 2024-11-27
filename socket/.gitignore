@@ -1,0 +1,10 @@
+# Socket Dependencies
+/node_modules
+
+# Temp and Logs
+temp/
+logs/
+*.log
+
+# Environment files
+.env

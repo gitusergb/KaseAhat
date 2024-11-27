@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+server/node_modules/
+node_modules/
+# Environment files
+server/.env
+server/.env.local
+server/.env.production
+server/.env.test
+.env
+# Logs
+server/logs/
+server/*.log
+server/*.log.*
+
+# Temporary Files
+server/tmp/
+server/*.pid
+server/*.pid.lock
