@@ -1,9 +1,74 @@
 # Chat Application 
 
+## A Simple WhatsApp-like Chat Application
+
 A ***Chat Application*** built with React, Node.js, and Socket.IO, inspired by WhatsApp's popularity as a widely-used chat application, featuring real-time messaging, file sharing, and user-friendly interactions.
 
 
-<!-- # Getting Started with Create React App
+### Objective:
+- A simple chat application using the MERN stack. 
+- The application allow users to view a list of contacts, see previous chats with each contact, and send
+new messages.
+
+1. Frontend (React.js)
+2. Backend (Node.js and Express.js)
+3. Database (MongoDB)
+4. Real-Time Messaging (Socket.io)
+
+
+
+![MyWhatsApp Web](https://i.ibb.co/fq5r4Sk/logo.png)
+
+---
+
+[FrontEnd](https://github.com/gitusergb/MyWhatsAppWeb)
+
+---
+
+[Netlify Link](#)
+
+---
+
+![Capture1](https://i.ibb.co/rtP4TJs/capt-1.png)
+
+---
+
+![Capture 2](https://i.ibb.co/mySVy90/capt-2.png)
+
+
+---
+
+![Capture 3](https://i.ibb.co/k4nrtdT/capt-3.png)
+
+---
+
+![Capture 3](https://i.ibb.co/mbTT8GJ/capt-4.png)
+
+---
+
+![Capture 3](https://i.ibb.co/ZgGvkS2/capt-5.png)
+
+
+---
+
+## Contributor: [Gauri Bidwai](https://github.com/gitusergb)
+
+### Thank you !
+
+
+
+
+<!-- 
+
+
+
+
+
+
+https://i.ibb.co/mzwnbks/logo.png
+
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

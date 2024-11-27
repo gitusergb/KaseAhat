@@ -32,6 +32,7 @@ io.on('connection',(socket) => {
     //send message to a perticular user
     socket.on('sendMessage', (data) => {
         const user = getUser(data.receiverId);
+        console.log(user)
         io.to(user.socketId).emit('getMessage', data)
     })
 
